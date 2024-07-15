@@ -6,4 +6,6 @@ AcuGIS GIS Hosting Services
 
 For more information, visit us at [AcuGIS](https://www.acugis.com).
 
+![AcuGIS](acugis.png)
+
 
